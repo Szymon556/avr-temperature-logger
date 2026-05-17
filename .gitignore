@@ -1,0 +1,10 @@
+*.o
+*.elf
+*.hex
+*.map
+*.eep
+*.lst
+*.lss
+
+.vscode/
+build/
